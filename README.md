@@ -65,6 +65,10 @@ Final Model WireFrame | Final Model ViewPort |
 |  ![](Final3dModel/ViewPortRender.gif) |
 -->
 
+| Final Model Animation |
+|:------------------------:|
+|  ![](Final3dModel/ModelAnimation.gif) |
+
 ---
 
 ## 🧰 Tools & Technologies
