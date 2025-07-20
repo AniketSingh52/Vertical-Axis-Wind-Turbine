@@ -88,6 +88,11 @@ Final Model WireFrame | Final Model ViewPort |
 - Expansion to airport runways or industrial corridors.
 
 ---
+
+## 🎥 Demo Video
+[▶ Watch Demo Video](ModelDemoAnimation.mp4)
+---
+---
 ## 🖼️ Preview Models
 
 | 🧾 VAWT Demo |
