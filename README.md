@@ -65,7 +65,7 @@ Final Model WireFrame | Final Model ViewPort |
 |  ![](Final3dModel/ViewPortRender.gif) |
 -->
 
-| Final Model Animation |
+| Final VAWT Animation |
 |:------------------------:|
 |  ![](Final3dModel/ModelAnimation.gif) |
 
@@ -88,4 +88,12 @@ Final Model WireFrame | Final Model ViewPort |
 - Expansion to airport runways or industrial corridors.
 
 ---
+## 🖼️ Preview Models
 
+| 🧾 VAWT Demo |
+|--------------------|
+| ![HandmadePoster](Images/3DModel.png) |
+
+| 🧾 Turbine Model |
+|--------------------|
+| ![HandmadePoster](Images/3DTurbine.png) |
