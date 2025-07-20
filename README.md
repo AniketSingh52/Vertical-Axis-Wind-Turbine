@@ -51,8 +51,7 @@ Presented with a handmade poster and animated demo, this project was recognized 
 
 Turbine WireFrame |  Turbine Model | Turbine Animation
 :-------------------------:|:------------------------:|:-------------------------:
-<video src="TurbineModel/wired_frame_Turbine.mp4"> |  <video src="TurbineModel/ModelRender.mp4">|  <video src="TurbineModel/TurbineAnimation.mp4">
-
+![](TurbineModel/wired_frame_Turbine.gif) |  ![](TurbineModel/ModelRender.gif) |  ![](TurbineModel/TurbineAnimation.gif)
 
 ---
 
