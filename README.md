@@ -49,9 +49,15 @@ Presented with a handmade poster and animated demo, this project was recognized 
 |--------------------|
 | ![HandmadePoster](Images/Poster.jpg) |
 
-Turbine WireFrame |  Turbine Model | Turbine Animation
+Turbine WireFrame |  Turbine ViewPort | Turbine Model
 :-------------------------:|:------------------------:|:-------------------------:
 ![](TurbineModel/wired_frame_Turbine.gif) |  ![](TurbineModel/ModelRender.gif) |  ![](TurbineModel/TurbineAnimation.gif)
+
+
+
+Final Model WireFrame |  Final Model ViewPort
+:-------------------------:|:------------------------:|
+![](Final3dModel/wireframe_Render.gif) |  ![](Final3dModel/ViewPortRender.gif) 
 
 ---
 
