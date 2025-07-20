@@ -1,6 +1,6 @@
 # 🌬️ Vertical Axis Wind Turbine for Railway & Highway Wind Energy Harvesting
 
-![Project Banner](./assets/banner.jpg) <!-- Replace with your banner image if available -->
+![Project Banner](Images/Vertical_axis_banner.png) <!-- Replace with your banner image if available -->
 
 ## 📌 Project Overview
 
@@ -45,10 +45,14 @@ Presented with a handmade poster and animated demo, this project was recognized 
 - 🖼️ **Handmade Poster**: Illustrated design showing turbine design, working, statistics, Limitations etc.
 - 🎞️ **3D Animated Video**: Demonstrates how the turbine spins using wind from a passing train.
 
-> _[Embed media links or previews here]_  
-> Example:  
-> ![Poster](./assets/handmade_poster.jpg)  
-> [🎬 Watch Demo Video](https://your-link.com/demo)
+| 🧾 Poster |
+|--------------------|
+| ![HandmadePoster](Images/Poster.jpg) |
+
+Turbine WireFrame |  Turbine Model | Turbine Animation
+:-------------------------:|:------------------------:|:-------------------------:
+<video src="wired_frame_Turbine.mp4"> |  <video src="ModelRender.mp4">|  <video src="TurbineAnimation.mp4">
+
 
 ---
 
