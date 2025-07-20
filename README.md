@@ -55,10 +55,13 @@ Turbine WireFrame |  Turbine ViewPort | Turbine Model
 
 
 
-Final Model WireFrame |  Final Model ViewPort
-:-------------------------:|:------------------------:|
-![](Final3dModel/wireframe_Render.gif) |  ![](Final3dModel/ViewPortRender.gif) 
+Final Model WireFrame |
+:-------------------------:|
+![](Final3dModel/wireframe_Render.gif) | 
 
+| Final Model ViewPort |
+|:------------------------:|
+|  ![](Final3dModel/ViewPortRender.gif) |
 ---
 
 ## 🧰 Tools & Technologies
