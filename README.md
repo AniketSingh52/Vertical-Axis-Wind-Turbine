@@ -17,6 +17,7 @@ Presented as a working concept with a handmade poster and animated demo, this pr
 
 ## What is Avishkar ?
 [▶ About Avishkar](Avishkar%202023.pptx)
+---
 
 <!--
 🏆 Awards & Recognition
