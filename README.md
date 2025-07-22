@@ -1,4 +1,9 @@
 # 🌬️ Vertical Axis Wind Turbine for Railway & Highway Wind Energy Harvesting
+> A Research project by **Aniket Singh**  
+> Exploring the potential of Wind energy as a clean, renewable power source  
+> 📍 Presented as a working concept at **Mini Avishkar Competition**, **KET's V. G. Vaze College**
+
+<br>
 
 ![Project Banner](Images/Vertical_axis_banner.png) <!-- Replace with your banner image if available -->
 
