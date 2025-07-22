@@ -14,6 +14,10 @@ The **Vertical Axis Wind Turbine (VAWT)** project is an innovative solution to h
 📅 **Date: 14th February 2023**
 <br>
 Presented as a working concept with a handmade poster and animated demo, this project was recognized for its innovation, impact, and feasibility in real-world application.
+
+## What is Avishkar ?
+[▶ About Avishkar](Avishkar%202023.pptx)
+
 <!--
 🏆 Awards & Recognition
 🥇 1st Prize Winner at Mini Avishkar Competition, KET's V. G. Vaze College
